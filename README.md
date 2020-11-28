@@ -30,5 +30,5 @@ start 클릭 → 사진 업로드 → 예측 클릭
 
 ### **프로젝트 시연영상**
 --------
-[시연 영상 보러가기](https://youtu.be/aBGY4WbUFxg)
 ![시연영상캡쳐](https://user-images.githubusercontent.com/71479345/100492701-1b5c5200-3172-11eb-840a-391579349ea2.png)
+[시연 영상 보러가기](https://youtu.be/aBGY4WbUFxg)
